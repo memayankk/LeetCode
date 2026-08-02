@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/memayankk/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/memayankk/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/memayankk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/memayankk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/memayankk/LeetCode/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/memayankk/LeetCode/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
