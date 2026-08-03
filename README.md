@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/memayankk/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/memayankk/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/memayankk/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/memayankk/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/memayankk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/memayankk/LeetCode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
