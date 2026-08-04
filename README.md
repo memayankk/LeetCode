@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/memayankk/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/memayankk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/memayankk/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/memayankk/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/memayankk/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/memayankk/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/memayankk/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/memayankk/LeetCode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
