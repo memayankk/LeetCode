@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/memayankk/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/memayankk/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/memayankk/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/memayankk/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/memayankk/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/memayankk/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/memayankk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/memayankk/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
