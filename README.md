@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/memayankk/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/memayankk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/memayankk/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/memayankk/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/memayankk/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/memayankk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/memayankk/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/memayankk/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/memayankk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/memayankk/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
