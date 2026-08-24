@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/memayankk/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/memayankk/LeetCode/tree/master/0709-to-lower-case) |
+| [1678-goal-parser-interpretation](https://github.com/memayankk/LeetCode/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
