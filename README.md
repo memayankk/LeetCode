@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/memayankk/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/memayankk/LeetCode/tree/master/2540-minimum-common-value) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/memayankk/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/memayankk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/memayankk/LeetCode/tree/master/2540-minimum-common-value) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/memayankk/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
