@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/memayankk/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/memayankk/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/memayankk/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/memayankk/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/memayankk/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/memayankk/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/memayankk/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/memayankk/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/memayankk/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/memayankk/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/memayankk/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
