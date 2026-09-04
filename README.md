@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/memayankk/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/memayankk/LeetCode/tree/master/2540-minimum-common-value) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/memayankk/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/memayankk/LeetCode/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/memayankk/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/memayankk/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/memayankk/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/memayankk/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/memayankk/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
