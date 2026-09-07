@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/memayankk/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/memayankk/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/memayankk/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/memayankk/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/memayankk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/memayankk/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/memayankk/LeetCode/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/memayankk/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/memayankk/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/memayankk/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/memayankk/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/memayankk/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/memayankk/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/memayankk/LeetCode/tree/master/0069-sqrtx) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/memayankk/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/memayankk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/memayankk/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
