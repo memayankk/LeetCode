@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/memayankk/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/memayankk/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/memayankk/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/memayankk/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/memayankk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/memayankk/LeetCode/tree/master/0754-reach-a-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/memayankk/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/memayankk/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/memayankk/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
