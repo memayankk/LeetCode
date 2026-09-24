@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/memayankk/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/memayankk/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/memayankk/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/memayankk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/memayankk/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/memayankk/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/memayankk/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/memayankk/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/memayankk/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/memayankk/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/memayankk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/memayankk/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/memayankk/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/memayankk/LeetCode/tree/master/3870-count-commas-in-range) |
