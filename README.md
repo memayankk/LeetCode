@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/memayankk/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/memayankk/LeetCode/tree/master/0796-rotate-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/memayankk/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/memayankk/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/memayankk/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/memayankk/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/memayankk/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/memayankk/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/memayankk/LeetCode/tree/master/0279-perfect-squares) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/memayankk/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
