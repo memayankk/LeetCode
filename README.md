@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/memayankk/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/memayankk/LeetCode/tree/master/0704-binary-search) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/memayankk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/memayankk/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/memayankk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/memayankk/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/memayankk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/memayankk/LeetCode/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/memayankk/LeetCode/tree/master/0754-reach-a-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/memayankk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/memayankk/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/memayankk/LeetCode/tree/master/2540-minimum-common-value) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/memayankk/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/memayankk/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/memayankk/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/memayankk/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Bubble Sort
 |  |
 | ------- |
