@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/memayankk/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/memayankk/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/memayankk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/memayankk/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/memayankk/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/memayankk/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/memayankk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/memayankk/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/memayankk/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/memayankk/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/memayankk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/memayankk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/memayankk/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/memayankk/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/memayankk/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/memayankk/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/memayankk/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/memayankk/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/memayankk/LeetCode/tree/master/0268-missing-number) |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/memayankk/LeetCode/tree/master/0397-integer-replacement) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/memayankk/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
