@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/memayankk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/memayankk/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/memayankk/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/memayankk/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/memayankk/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/memayankk/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/memayankk/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/memayankk/LeetCode/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/memayankk/LeetCode/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/memayankk/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/memayankk/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/memayankk/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/memayankk/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/memayankk/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -502,4 +505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/memayankk/LeetCode/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/memayankk/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/memayankk/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
