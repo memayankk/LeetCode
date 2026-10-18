@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/memayankk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/memayankk/LeetCode/tree/master/0670-maximum-swap) |
 | [0754-reach-a-number](https://github.com/memayankk/LeetCode/tree/master/0754-reach-a-number) |
+| [0866-prime-palindrome](https://github.com/memayankk/LeetCode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/memayankk/LeetCode/tree/master/0910-smallest-range-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/memayankk/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -399,11 +400,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/memayankk/LeetCode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/memayankk/LeetCode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/memayankk/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/memayankk/LeetCode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/memayankk/LeetCode/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
