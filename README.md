@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/memayankk/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/memayankk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/memayankk/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/memayankk/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/memayankk/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/memayankk/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/memayankk/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/memayankk/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/memayankk/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/memayankk/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/memayankk/LeetCode/tree/master/2235-add-two-integers) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/memayankk/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/memayankk/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/memayankk/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/memayankk/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/memayankk/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/memayankk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/memayankk/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/memayankk/LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/memayankk/LeetCode/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String Matching
 |  |
 | ------- |
