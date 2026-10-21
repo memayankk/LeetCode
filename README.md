@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/memayankk/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/memayankk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/memayankk/LeetCode/tree/master/2540-minimum-common-value) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/memayankk/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/memayankk/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/memayankk/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/memayankk/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/memayankk/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/memayankk/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/memayankk/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/memayankk/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/memayankk/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/memayankk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/memayankk/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/memayankk/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/memayankk/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Divide and Conquer
 |  |
 | ------- |
