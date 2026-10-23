@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/memayankk/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/memayankk/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/memayankk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/memayankk/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/memayankk/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/memayankk/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/memayankk/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/memayankk/LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/memayankk/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/memayankk/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/memayankk/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
