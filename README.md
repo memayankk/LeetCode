@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/memayankk/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/memayankk/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/memayankk/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/memayankk/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/memayankk/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/memayankk/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/memayankk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/memayankk/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/memayankk/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/memayankk/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/memayankk/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/memayankk/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/memayankk/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/memayankk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
