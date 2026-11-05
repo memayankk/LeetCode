@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/memayankk/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/memayankk/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/memayankk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/memayankk/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/memayankk/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/memayankk/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/memayankk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/memayankk/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/memayankk/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/memayankk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/memayankk/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/memayankk/LeetCode/tree/master/0754-reach-a-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/memayankk/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/memayankk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/memayankk/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/memayankk/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/memayankk/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/memayankk/LeetCode/tree/master/2540-minimum-common-value) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/memayankk/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/memayankk/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/memayankk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/memayankk/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/memayankk/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/memayankk/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/memayankk/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
