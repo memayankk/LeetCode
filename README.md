@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/memayankk/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/memayankk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/memayankk/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/memayankk/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/memayankk/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/memayankk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/memayankk/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/memayankk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/memayankk/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/memayankk/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/memayankk/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/memayankk/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/memayankk/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/memayankk/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0279-perfect-squares](https://github.com/memayankk/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/memayankk/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/memayankk/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/memayankk/LeetCode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/memayankk/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/memayankk/LeetCode/tree/master/0678-valid-parenthesis-string) |
